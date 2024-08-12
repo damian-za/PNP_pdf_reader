@@ -6,7 +6,7 @@ import json
 import sys
 
 """
-Just some text to test change for git
+Just some text to test change for git2
 """
 
 log = logging.getLogger("")
