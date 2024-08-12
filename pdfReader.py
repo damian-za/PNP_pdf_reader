@@ -5,6 +5,10 @@ import logging
 import json
 import sys
 
+"""
+Just some text to test change for git
+"""
+
 log = logging.getLogger("")
 log.setLevel(logging.INFO)
 
